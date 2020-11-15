@@ -1,8 +1,8 @@
 
 msgOne = "Hello World!   "
-msgTwo = "Let's create cool things.   "
+msgTwo = "Let's build some rad apps.   "
 msgThree = "    "
-msgFour = "Check out some of my work below   "
+msgFour = "Check out some of my work below.   "
 
 
 const texts = [msgOne, msgTwo, msgThree, msgFour]
